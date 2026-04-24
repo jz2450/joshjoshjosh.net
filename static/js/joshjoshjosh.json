@@ -1,0 +1,362 @@
+{
+    "jjjnetlogoblack.png": {
+        "information": {
+            "name": "josh zhong",
+            "recent photo": ["passport photo.jpeg", {
+                "as of": "february 12 2026 11:26am"
+            }],
+            "email": "josh@joshjoshjosh.net",
+            "occupation": "creative technologist",
+            "residence": "brooklyn, ny, usa",
+            "birth place": "tāmaki makaurau, aotearoa",
+            "birth year": 1996,
+            "mbti": "enfj",
+            "zodiac": {
+                "chinese": "rat",
+                "western": "virgo"
+            },
+            "height": {
+                "metric": "179cm",
+                "imperial": "5'10\""
+            },
+            "weight": {
+                "metric": "71kg",
+                "imperial": "157lb"
+            }
+        },
+        "in 2026": {
+            "was a guest speaker at": [
+                "culturehub",
+                {
+                    "as part of": "re-fest 2026: dismantling",
+                    "for": "blair simmons",
+                    "and": "cyd cipolla",
+                    "in": "new york, ny",
+                    "as of": "march 24 6:30pm"
+                }
+            ],
+            "was a guest judge at the": [
+                "itp stupid hackathon",
+                {
+                    "at": "new york university",
+                    "in": "brooklyn, ny",
+                    "as of": "february 28 9am"
+                }
+            ],
+            "was a featured creator at": [
+                "pedestal playtime",
+                {
+                    "at": "nyc resistor",
+                    "in": "brooklyn, ny",
+                    "as of": "january 30 7pm"
+                }
+            ]
+        },
+        "in 2025": {
+            "was interviewed by": [
+                "wired",
+                {
+                    "for a": "friend.com subway ad halloween costume",
+                    "published at": "https://www.wired.com/story/expired-tired-wired-ai-friends/",
+                    "as of": "december 22"
+                }
+            ],
+            "won the cutest pumpkin award at the": [
+                "acme brooklyn pumpkin carving contest",
+                {
+                    "in": "brooklyn, ny",
+                    "as of": "october 22",
+                    "pumpkin": "pumpkin.jpeg"
+                }
+            ],
+            "won people's choice at the": [
+                "creative coding nyc two year anniversary scavenger hunt",
+                {
+                    "for": "bodega cat simulator",
+                    "at":"nyc resistor",
+                    "in": "brooklyn, ny",
+                    "as of": "september 6"
+                }
+            ],
+            "was a workshop leader at": [
+                "itp camp 2025",
+                {
+                    "for": [
+                        "totes magotes tote bag tutorial",
+                        "how to make one (1) viral video"
+                    ],
+                    "in": "brooklyn, ny",
+                    "as of": "june 2",
+                    "until": "june 26"
+                }
+            ],
+            "was an exhibiting artist at": [
+                "blur: itp resident exhibition",
+                {
+                    "showing": "hotline josh",
+                    "at the": "clive davis gallery",
+                    "in": "brooklyn, ny",
+                    "as of": "may 22",
+                    "until": "may 29"
+                }
+            ],
+            "created": [
+                "hotline josh",
+                {
+                    "which was": "a 1-week-long public act of self-surveillance. Facilitated by a sidewalk facing screen and capacitive touch sensor, members of the public are invited to “check in” on Josh by sending him a notification, receiving a selfie in return. The installation ran 24 hours a day for the duration of the show. Taking the form of an intimate text message thread, Hotline Josh investigates the state of obfuscated digital labour and the blurry distinction between mass surveillance and \"just checking in, babe\".",
+                    "looked like": [
+                        "hotline/0.jpeg",
+                        "hotline/1.jpeg",
+                        "hotline/2.jpeg",
+                        "hotline/3.jpeg",
+                        "hotline/4.jpeg",
+                        "hotline/5.jpeg"
+                    ]
+                }
+            ],
+            "started working at": [
+                "glub glub labs",
+                {
+                    "as a": "techmonger",
+                    "in": "brooklyn, ny",
+                    "as of": "may"
+                }
+            ],
+            "contributed work to": [
+                "rejects: a benefit auction",
+                {
+                    "for": "culturehub",
+                    "in": "new york, ny",
+                    "as of": "may 20 6pm"
+                }
+            ],
+            "was a guest speaker at": [
+                "new jersey makers day",
+                {
+                    "held in": "chatham, nj",
+                    "as of": "march 22 10:30am"
+                }
+            ],
+            "was a assistant technologist at": [
+                "national liberty museum",
+                {
+                    "for artist": "elyana shams",
+                    "held in": "chatham, nj",
+                    "as of": "march 22 10:30am"
+                }
+            ],
+            "was an assistant technologist for the artist": [
+                "elyana shams",
+                {
+                    "at": [
+                        "the national liberty museum",
+                        "artechouse",
+                        "culturehub"
+                    ]
+                }
+            ]
+        },
+        "in 2024": {
+            "was a keynote speaker at": [
+                "whaaat!? festival",
+                {
+                    "held at": "colorado university boulder",
+                    "as of": "november",
+                    "more info": "https://whaaat.io/2024/"
+                }
+            ],
+            "was a guest critic at": [
+                "new york institute of technology",
+                {
+                    "for class": "hci design",
+                    "as of": "october"
+                }
+            ],
+            "started working as an": [
+                "itp postdoc research resident",
+                {
+                    "at": "new york university",
+                    "as of": "august",
+                    "until": "may 2025"
+                }
+            ],
+            "was a featured presenter at the": [
+                "aiga fresh grad showcase",
+                {
+                    "held at": "parsons",
+                    "as of": "june",
+                    "more info": "https://aigany.org/event/design-spotlightfresh-grad-2024/"
+                }
+            ],
+            "graduated from": [
+                "new york university",
+                {
+                    "degree": "mps",
+                    "major": "interactive telecommunications program",
+                    "documentation": "https://itp.joshjoshjosh.net",
+                    "as of": "may"
+                }
+            ],
+            "created": [
+                "burp world online",
+                {
+                }
+            ],
+            "was the production coordinator, set fabricator, and web developer for": [
+                "for mum, dad: distant letters",
+                {
+                    "performed by:": "koe duo",
+                    "held in": "new york, ny",
+                    "as of": "march",
+                    "more info": "https://www.tickettailor.com/events/koe/1141866"
+                }
+            ],
+            "was an organiser for the": [
+                "itp stupid hackathon",
+                {
+                    "held at": "nyu",
+                    "as of": "february",
+                    "more info": "https://itpstupidhackathon.online"
+                }
+            ]
+        },
+        "in 2023": {
+            "exhibited work (4) at the": [
+                "itp winter show",
+                {
+                    "held in": "brooklyn, ny",
+                    "showing": [
+                        "sam's phone",
+                        "food-not-disturb"
+                    ],
+                    "as of": "december"
+                }
+            ],
+            "exhibited work (3) at the": [
+                "coney island maker faire",
+                {
+                    "held in": "brooklyn, ny",
+                    "showing": "first person josh",
+                    "as of": "october",
+                    "more info": "https://coneyisland.makerfaire.com/maker/entry/41/"
+                }
+            ],
+            "designed wearable projectors for the": [
+                "nyu graduate acting department",
+                {
+                    "performing": "a midsummer nights dream",
+                    "in": "new york, ny",
+                    "as of": "september",
+                    "more info": "https://tisch.nyu.edu/grad-acting/events/a-midsummer-night-s-dream"
+                }
+            ],
+            "exhibited work (2) at": [
+                "currents new media arts festival",
+                {
+                    "held in": "santa fe, nm",
+                    "showing": "first person josh",
+                    "as of": "june",
+                    "more info": "https://currentsnewmedia.org/festivals/currents-new-media-2023/"
+                }
+            ],
+            "exhibited work (1) at the": [
+                "itp spring show",
+                {
+                    "held in": "brooklyn, ny",
+                    "showing": "first person josh",
+                    "as of": "may"
+                }
+            ]
+        },
+        "in 2021": {
+            "exhibited work at": [
+                "pop conference 2021",
+                {
+                    "held": "virtually",
+                    "showing": "zhon doe - zd005",
+                    "as of": "april",
+                    "more info": "https://www.nyu.edu/about/news-publications/news/2021/april/pop-conference-2021-brings-together-world-s-leading-pop-music-wr.html"
+                }
+            ]
+        },
+        "in 2020": {
+            "graduated from": [
+                "new york university",
+                {
+                    "degree": "bfa",
+                    "major": "recorded music",
+                    "minor": "computer science",
+                    "as of": "may"
+                }
+            ]
+        },
+        "in 2016": {
+            "matriculated at": [
+                "massey university wellington",
+                {
+                    "degree": "BCommMus",
+                    "major": "music industry",
+                    "as of": "february"
+                }
+            ]
+        },
+        "in 2015": {
+            "graduated from": [
+                "sae auckland",
+                {
+                    "degree": "certificate in electronic music production",
+                    "as of": "february"
+                }
+            ]
+        },
+        "in 2014": {
+            "graduated from": [
+                "auckland grammar school",
+                {
+                    "degree": "cie a-levels",
+                    "as of": "december"
+                }
+            ]
+        },
+        "in 2009": {
+            "graduated from": [
+                "king's school (auckland)",
+                {
+                    "as of": "december"
+                }
+            ]
+        },
+        "in 2008": {
+            "dropped out of": [
+                "kumon",
+                {
+                    "highest level achieved": "mathematics level l"
+                }
+            ]
+        },
+        "in 2007": {
+            "graduated from": [
+                "epsom normal primary school",
+                {
+                    "as of": "december"
+                }
+            ]
+        },
+        "in 2001": {
+            "graduated from": [
+                "epsom north kindergarten",
+                {
+                    "as of": "september"
+                }
+            ]
+        },
+        "in 1996": {
+            "was born at": [
+                "greenlane women's hospital",
+                {
+                    "as of": "september"
+                }
+            ]
+        }
+    }
+}

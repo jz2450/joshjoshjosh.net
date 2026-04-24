@@ -1,0 +1,39 @@
+html,
+body {
+    margin: 0;
+    /* font-family: Helvetica, Arial, sans-serif; */
+    min-width: max-content;
+    padding-bottom: 50vh;
+    padding-right: 50vw;
+}
+
+table {
+    border-collapse: collapse;
+    display: block;
+}
+
+td {
+    /* border: 1px black solid; */
+    width: 20vw;
+    border-collapse: collapse;
+    vertical-align: top;
+    padding: 4px;
+}
+
+td.value {
+    font-style: italic;
+}
+
+td.hover {
+    background-color: #F5F59D;
+}
+
+img {
+    width: 100%;
+}
+
+@media (max-width: 768px) {
+    td {
+        width: 25vw;
+    }
+}
