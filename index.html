@@ -6,24 +6,24 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Josh of All Trades. Master of Fun.">
     <title>joshjoshjosh.net</title>
-    <link rel=”apple-touch-icon” sizes=”180×180″ href=”/static/assets/favicon-package/apple-touch-icon.png”>
-    <link rel=”icon” type=”image/png” sizes=”32×32″ href=”/static/assets/favicon-package/favicon-32×32.png”>
-    <link rel=”icon” type=”image/png” sizes=”16×16″ href=”/static/assets/favicon-package/favicon-16×16.png”>
-    <link rel=”manifest” href=”/static/assets/favicon-package/site.webmanifest”>
-    <link rel=”icon” href=”/static/assets/favicon-package/favicon.ico”>
-    <meta name=”msapplication-config” content=”/static/assets/favicon-package/browserconfig.xml”>
+    <link rel=”apple-touch-icon” sizes=”180×180″ href=”./static/assets/favicon-package/apple-touch-icon.png”>
+    <link rel=”icon” type=”image/png” sizes=”32×32″ href=”./static/assets/favicon-package/favicon-32×32.png”>
+    <link rel=”icon” type=”image/png” sizes=”16×16″ href=”./static/assets/favicon-package/favicon-16×16.png”>
+    <link rel=”manifest” href=”./static/assets/favicon-package/site.webmanifest”>
+    <link rel=”icon” href=”./static/assets/favicon-package/favicon.ico”>
+    <meta name=”msapplication-config” content=”./static/assets/favicon-package/browserconfig.xml”>
     <meta name=”theme-color” content=”#ffffff”>
-    <link rel="stylesheet" href="/static/css/style.css">
+    <link rel="stylesheet" href="./static/css/style.css">
 </head>
 
 <body>
     <marquee>josh of all trades, master of fun. complete josh history is still being uploaded...</marquee>
     <div id="table-container"></div>
-    <script src="/static/js/jsontohtml.js"></script>
+    <script src="./static/js/jsontohtml.js"></script>
     <script>
         let joshData;
 
-        fetch('/static/js/joshjoshjosh.json')
+        fetch('./static/js/joshjoshjosh.json')
             .then(response => response.json())
             .then(data => {
                 console.log(data);
