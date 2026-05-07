@@ -13,9 +13,11 @@ table {
 }
 
 td {
-    /* border: 1px black solid; */
-    width: 20vw;
-    border-collapse: collapse;
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+    width: 16vw;
+    /* border-collapse: collapse; */
     vertical-align: top;
     padding: 4px;
 }

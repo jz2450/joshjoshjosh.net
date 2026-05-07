@@ -2,10 +2,14 @@
     "jjjnetlogoblack.png": {
         "information": {
             "name": "josh zhong",
-            "recent photo": ["passport photo.jpeg", {
-                "as of": "february 12 2026 11:26am"
-            }],
+            "recent photo": [
+                "passport photo.jpeg",
+                {
+                    "taken": "february 12 2026 11:26am"
+                }
+            ],
             "email": "josh@joshjoshjosh.net",
+            "handle": "@joshjoshjoshdotnet",
             "occupation": "creative technologist",
             "residence": "brooklyn, ny, usa",
             "birth place": "tāmaki makaurau, aotearoa",
@@ -17,11 +21,13 @@
             },
             "height": {
                 "metric": "179cm",
-                "imperial": "5'10\""
+                "imperial": "5'10\"",
+                "measured": "march 2026"
             },
             "weight": {
                 "metric": "71kg",
-                "imperial": "157lb"
+                "imperial": "157lb",
+                "measured": "march 2026"
             }
         },
         "in 2026": {
@@ -56,7 +62,7 @@
             "was interviewed by": [
                 "wired",
                 {
-                    "for a": "friend.com subway ad halloween costume",
+                    "because of a": "friend.com subway ad halloween costume",
                     "published at": "https://www.wired.com/story/expired-tired-wired-ai-friends/",
                     "as of": "december 22"
                 }
@@ -64,16 +70,14 @@
             "won the cutest pumpkin award at the": [
                 "acme brooklyn pumpkin carving contest",
                 {
-                    "in": "brooklyn, ny",
-                    "as of": "october 22",
-                    "pumpkin": "pumpkin.jpeg"
+                    "as of": "october 22"
                 }
             ],
             "won people's choice at the": [
                 "creative coding nyc two year anniversary scavenger hunt",
                 {
                     "for": "bodega cat simulator",
-                    "at":"nyc resistor",
+                    "at": "nyc resistor",
                     "in": "brooklyn, ny",
                     "as of": "september 6"
                 }
@@ -103,7 +107,19 @@
             "created": [
                 "hotline josh",
                 {
-                    "which was": "a 1-week-long public act of self-surveillance. Facilitated by a sidewalk facing screen and capacitive touch sensor, members of the public are invited to “check in” on Josh by sending him a notification, receiving a selfie in return. The installation ran 24 hours a day for the duration of the show. Taking the form of an intimate text message thread, Hotline Josh investigates the state of obfuscated digital labour and the blurry distinction between mass surveillance and \"just checking in, babe\".",
+                    "which was": "a 1-week-long public act of self-surveillance running 24 hours a day",
+                    "for": "members of the public",
+                    "to": "“check in” on Josh",
+                    "by": [
+                        "sending him a notification",
+                        "receiving a selfie in return"
+                    ],
+                    "using": [
+                        "a sidewalk facing screen",
+                        "a capacitive touch sensor",
+                        "a web server"
+                    ],
+                    "investigating": "the state of obfuscated digital labour and the blurry distinction between mass surveillance and \"just checking in, babe\" text messages from an invisible toxic domestic partner",
                     "looked like": [
                         "hotline/0.jpeg",
                         "hotline/1.jpeg",
@@ -137,18 +153,10 @@
                     "as of": "march 22 10:30am"
                 }
             ],
-            "was a assistant technologist at": [
-                "national liberty museum",
-                {
-                    "for artist": "elyana shams",
-                    "held in": "chatham, nj",
-                    "as of": "march 22 10:30am"
-                }
-            ],
             "was an assistant technologist for the artist": [
                 "elyana shams",
                 {
-                    "at": [
+                    "for exhibitions at": [
                         "the national liberty museum",
                         "artechouse",
                         "culturehub"
@@ -200,6 +208,8 @@
             "created": [
                 "burp world online",
                 {
+                    "which was a": "social media platform",
+                    "for": "burps"
                 }
             ],
             "was the production coordinator, set fabricator, and web developer for": [
@@ -250,6 +260,12 @@
                     "more info": "https://tisch.nyu.edu/grad-acting/events/a-midsummer-night-s-dream"
                 }
             ],
+            "designed food product packaging for": [
+                "kwongson foods",
+                {
+                    "as of": "september"
+                }
+            ],
             "exhibited work (2) at": [
                 "currents new media arts festival",
                 {
@@ -268,7 +284,51 @@
                 }
             ]
         },
+        "in 2022": {
+            "exhibited work at": [
+                "itp winter show",
+                {
+                    "held in": "brooklyn, ny",
+                    "showing": "big josh",
+                    "as of": "december"
+                }
+            ],
+            "designed merchandise for": [
+                "dana mccoy",
+                {
+                    "as of": "july"
+                }
+            ]
+        },
         "in 2021": {
+            "was a stylist assistant to": [
+                "john olson",
+                {
+                    "for the": "karl lagerfeld paris fall 21 APRÈS-SKI campaign",
+                    "as of": "august"
+                }
+            ],
+            "was a photo assistant to": [
+                "wen ting gu",
+                {
+                    "for the": "2021 us open: open canvas campaign",
+                    "as of": "august"
+                }
+            ],
+            "was a production assistant and event coordinator for": [
+                "jd samson",
+                {
+                    "for": "PAT @ Union Pool",
+                    "as of": "june"
+                }
+            ],
+            "was a production assistant for": [
+                "jd samson",
+                {
+                    "for": "vans channel 66",
+                    "as of": "may"
+                }
+            ],
             "exhibited work at": [
                 "pop conference 2021",
                 {
@@ -277,9 +337,36 @@
                     "as of": "april",
                     "more info": "https://www.nyu.edu/about/news-publications/news/2021/april/pop-conference-2021-brings-together-world-s-leading-pop-music-wr.html"
                 }
+            ],
+            "was a recording and mix engineer for": [
+                "gracie francis",
+                {
+                    "recorded at": "the blue building, ny",
+                    "as of": "january"
+                }
             ]
         },
         "in 2020": {
+            "was a recording engineer for": [
+                "jessie murph",
+                {
+                    "recorded at": "arcade songs publishing",
+                    "as of": "december"
+                }
+            ],
+            "was a graphic designer for": [
+                "the clive davis institute",
+                {
+                    "as of": "november"
+                }
+            ],
+            "was a volunteer for": [
+                "assembly for chinatown",
+                {
+                    "in": "new york, ny",
+                    "as of": "august"
+                }
+            ],
             "graduated from": [
                 "new york university",
                 {
@@ -287,6 +374,44 @@
                     "major": "recorded music",
                     "minor": "computer science",
                     "as of": "may"
+                }
+            ],
+            "designed the logo for": [
+                "stories in my backyard",
+                {
+                    "a": "non-profit org",
+                    "in": "philadelphia, pa",
+                    "as of": "april"
+                }
+            ]
+        },
+        "in 2019": {
+            "was an extra in": [
+                "clara (short film)",
+                {
+                    "as of": "july"
+                }
+            ],
+            "was the director's assistant for the": [
+                "sena kana “up (dzeko remix)” music video",
+                {   
+                    "director": "israel riqueros",
+                    "as of": "june"
+                }
+            ],
+            "was a cast member for the": [
+                "“icing on the cake” music video",
+                {   
+                    "by": "grace ives",
+                    "as of": "june"
+                }
+            ]
+        },
+        "in 2018": {
+            "was an event production volunteer for": [
+                "a2im indie week",
+                {
+                    "as of": "june"
                 }
             ]
         },
