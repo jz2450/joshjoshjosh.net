@@ -31,6 +31,24 @@
             }
         },
         "in 2026": {
+            "was a background actor in": [
+                "born to kill (2026)",
+                {
+                    "directed by": "sally tran",
+                    "shown at": "tribeca film festival",
+                    "as of": "june 7"
+                }
+            ],
+            "was runner up at": [
+                "build with ai at the met",
+                {
+                    "hosted by": "the metropolitan museum",
+                    "sponsored by": "anthropic",
+                    "representing": "glub glub labs",
+                    "read more": "https://www.metmuseum.org/perspectives/build-with-ai-at-the-met",
+                    "as of": "april 16"
+                }
+            ],
             "was a guest speaker at": [
                 "culturehub",
                 {
@@ -180,9 +198,19 @@
                     "as of": "october"
                 }
             ],
-            "started working as an": [
-                "itp postdoc research resident",
+            "started working as a": [
+                "social media manager",
                 {
+                    "for": "itp",
+                    "at": "new york university",
+                    "as of": "august",
+                    "until": "may 2025"
+                }
+            ],
+            "started working as an": [
+                "postdoc research resident",
+                {
+                    "for": "itp",
                     "at": "new york university",
                     "as of": "august",
                     "until": "may 2025"
@@ -293,7 +321,25 @@
                     "as of": "december"
                 }
             ],
-            "designed merchandise for": [
+            "started working as a": [
+                "graduate assistant",
+                {
+                    "for": "itp",
+                    "at": "new york university",
+                    "as of": "august",
+                    "until": "may 2024"
+                }
+            ],
+            "started working as": [
+                "equipment room staff",
+                {
+                    "for": "itp",
+                    "at": "new york university",
+                    "as of": "august",
+                    "until": "may 2024"
+                }
+            ],
+            "designed hats for": [
                 "dana mccoy",
                 {
                     "as of": "july"
@@ -301,6 +347,15 @@
             ]
         },
         "in 2021": {
+            "started working as a": [
+                "catalogue assistant",
+                {
+                    "for": "drm nz",
+                    "in": "tāmaki makaurau",
+                    "as of": "october",
+                    "until": "july 2022"
+                }
+            ],
             "was a stylist assistant to": [
                 "john olson",
                 {
@@ -322,17 +377,24 @@
                     "as of": "june"
                 }
             ],
-            "was a production assistant for": [
+            "was a production assistant to": [
                 "jd samson",
                 {
                     "for": "vans channel 66",
                     "as of": "may"
                 }
             ],
-            "exhibited work at": [
+            "was a technical assistant to": [
+                "bradshaw leigh",
+                {
+                    "at": "leigh audio design",
+                    "as of": "april",
+                    "until": "september"
+                }
+            ],
+            "performed virtually at": [
                 "pop conference 2021",
                 {
-                    "held": "virtually",
                     "showing": "zhon doe - zd005",
                     "as of": "april",
                     "more info": "https://www.nyu.edu/about/news-publications/news/2021/april/pop-conference-2021-brings-together-world-s-leading-pop-music-wr.html"
@@ -360,6 +422,15 @@
                     "as of": "november"
                 }
             ],
+            "started working as a": [
+                "studio manager",
+                {
+                    "for": "arcade songs publishing",
+                    "in": "new york, ny",
+                    "as of": "november",
+                    "until": "march 2021"
+                }
+            ],
             "was a volunteer for": [
                 "assembly for chinatown",
                 {
@@ -383,12 +454,30 @@
                     "in": "philadelphia, pa",
                     "as of": "april"
                 }
+            ],
+            "interned at": [
+                "meta: the art of being there",
+                {
+                    "in": "new york, ny",
+                    "as of": "february",
+                    "until": "may"
+                }
             ]
         },
         "in 2019": {
+            "started working as a": [
+                "studio production assistant",
+                {
+                    "for": "the clive davis institute",
+                    "in": "new york, ny",
+                    "as of": "august",
+                    "until": "may 2020"
+                }
+            ],
             "was an extra in": [
                 "clara (short film)",
                 {
+                    "directed by": "michelle black",
                     "as of": "july"
                 }
             ],
@@ -399,19 +488,56 @@
                     "as of": "june"
                 }
             ],
-            "was a cast member for the": [
+            "was a party attendant in the": [
                 "“icing on the cake” music video",
                 {   
                     "by": "grace ives",
                     "as of": "june"
                 }
+            ],
+            "was a": [
+                "summer high school teaching assistant",
+                {
+                    "for": "the clive davis institute",
+                    "in": "new york, ny",
+                    "as of": "june",
+                    "until": "august"
+                }
             ]
         },
         "in 2018": {
+            "started working as a": [
+                "music supervision and licensing intern",
+                {
+                    "for": "the music playground",
+                    "in": "new york, ny",
+                    "as of": "september",
+                    "until": "december"
+                }
+            ],
             "was an event production volunteer for": [
                 "a2im indie week",
                 {
                     "as of": "june"
+                }
+            ]
+        },
+        "in 2017": {
+            "started working as an": [
+                "a&r intern",
+                {
+                    "for": "songs publishing",
+                    "in": "new york, ny",
+                    "as of": "september",
+                    "until": "december"
+                }
+            ],
+            "started interning at": [
+                "drm nz",
+                {
+                    "in": "tāmaki makaurau",
+                    "as of": "june",
+                    "until": "september"
                 }
             ]
         },
@@ -426,11 +552,26 @@
             ]
         },
         "in 2015": {
+            "was the band manager for": [
+                "auckland city brass band",
+                {
+                    "in": "tāmaki makaurau"
+                }
+            ],
             "graduated from": [
                 "sae auckland",
                 {
                     "degree": "certificate in electronic music production",
                     "as of": "february"
+                }
+            ],
+            "started working as a": [
+                "crew member",
+                {
+                    "for": "pita pit",
+                    "in": "tāmaki makaurau",
+                    "as of": "january",
+                    "until": "november"
                 }
             ]
         },
