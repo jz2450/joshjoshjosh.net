@@ -31,6 +31,16 @@
             }
         },
         "in 2026": {
+            "was photographed in": [
+                "the new york times sunday edition",
+                {
+                    "cutting": "ceiling tile",
+                    "at the": "w4 newsstand",
+                    "for": "al mullen",
+                    "read more": "https://www.nytimes.com/2026/07/28/nyregion/subway-newstand-west-4th-station-nyc.html",
+                    "as of": "july 28"
+                }
+            ],
             "was a background actor in": [
                 "born to kill (2026)",
                 {
@@ -483,14 +493,14 @@
             ],
             "was the director's assistant for the": [
                 "sena kana “up (dzeko remix)” music video",
-                {   
+                {
                     "director": "israel riqueros",
                     "as of": "june"
                 }
             ],
             "was a party attendant in the": [
                 "“icing on the cake” music video",
-                {   
+                {
                     "by": "grace ives",
                     "as of": "june"
                 }
